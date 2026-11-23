@@ -4,7 +4,8 @@ A simple and interactive **Light & Dark Mode Theme Switcher** built using HTML, 
 
 
 ## 🎬 Project Demo
-[▶ Watch Theme Switcher Screen Recording](https://github.com/saranshgupta-dev/Theme_Switcher/blob/main/Screen%20Recording%20.mov)
+
+![Theme Switcher Demo](./assets/theme-switcher.gif)
 
 
 ## 🚀 Features
