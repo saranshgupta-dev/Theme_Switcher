@@ -2,8 +2,9 @@
 
 A simple and interactive **Light & Dark Mode Theme Switcher** built using HTML, CSS, and JavaScript. This project allows users to switch between light and dark themes while remembering their selected preference using browser `localStorage`.
 
+
 ## 🎬 Project Demo
-![Theme Switcher Demo](./Screen Recording.mov)
+[▶ Watch Theme Switcher Screen Recording](https://github.com/saranshgupta-dev/Theme_Switcher/blob/main/Screen%20Recording%20.mov)
 
 
 ## 🚀 Features
