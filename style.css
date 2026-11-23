@@ -1,0 +1,26 @@
+/* Default Light Theme */
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.3s;
+}
+/* if body class='dark' then apply this Dark Theme  */
+body.dark{ 
+    background-color: #111827;
+    color: white;
+}
+.container{
+    /* wihtout using display: Flex property  */
+    text-align: center; 
+    padding: 10px 20px;
+}
+button{
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: #2563eb;
+    color: white;
+    font-size: 16px;
+} 
